@@ -13,7 +13,7 @@ O projeto foi desenvolvido com foco em:
 
 ## 🌐 Projeto online
 
-👉 [Acessar o site](COLOQUE-AQUI-O-LINK-DO-SITE)
+👉 [Acessar o site](https://vinicius-leite-ricardo-adv.netlify.app/)
 
 ## 💡 Desenvolvimento
 
