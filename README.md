@@ -1,25 +1,21 @@
 # ⚖️ Website Profissional — Advocacia
 
-Website institucional desenvolvido para apresentação profissional de serviços jurídicos.
+![Preview do site](preview-site-vinicius.png)
+
+Website institucional desenvolvido para apresentação profissional de serviços jurídicos, com foco em presença digital, responsividade e experiência do usuário.
 
 ## ✨ Sobre o projeto
 
-O projeto foi desenvolvido com foco em:
-
-- 📱 Design responsivo para desktop e dispositivos móveis
+- 📱 Layout responsivo para desktop e mobile
 - 🎨 Identidade visual profissional
 - 🧭 Navegação simples e intuitiva
-- 💼 Apresentação clara das áreas de atuação
-- 📞 Facilidade de contato
-- ✨ Experiência visual moderna e profissional
+- 💼 Apresentação das áreas de atuação
+- 📞 Integração com contato via WhatsApp
+- ⚙️ Estrutura pensada para experiência do usuário
 
 ## 🌐 Projeto online
 
 👉 [Acessar o site](https://vinicius-leite-ricardo-adv.netlify.app/)
-
-## 💡 Desenvolvimento
-
-Projeto desenvolvido envolvendo estruturação do site, identidade visual, experiência do usuário, adaptação para dispositivos móveis e utilização de Inteligência Artificial como apoio no processo de criação.
 
 ## 🛠️ Recursos utilizados
 
@@ -28,6 +24,6 @@ Projeto desenvolvido envolvendo estruturação do site, identidade visual, exper
 ![UI/UX](https://img.shields.io/badge/UI%20%2F%20UX-B76E79)
 ![IA](https://img.shields.io/badge/Inteligência%20Artificial-D8A7B1)
 
----
+## 💡 Desenvolvimento
 
-### 🚀 Tecnologia com olhar humano e foco em soluções.
+Projeto desenvolvido desde a estruturação visual até a adaptação para diferentes dispositivos, incluindo organização de conteúdo, identidade visual e otimização da experiência de navegação.
